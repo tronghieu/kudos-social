@@ -31,6 +31,7 @@ This repo is currently a work in progress. Proposed stack:
 - Database: PostgreSQL (or Supabase)
 
 ## Roadmap
+- [ ] Design, recommend using https://stitch.withgoogle.com/
 - [ ] Auth + onboarding
 - [ ] Create kudos + feed
 - [ ] Leaderboard
